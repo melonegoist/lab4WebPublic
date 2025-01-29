@@ -1,0 +1,2 @@
+- frontend: Vue.js + Vite
+- Package Manager: npm
