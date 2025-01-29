@@ -1,0 +1,4 @@
+Бэк написан на spring-boot
+ORM - hibernate
+Security - jwt token
+Build System - maven
